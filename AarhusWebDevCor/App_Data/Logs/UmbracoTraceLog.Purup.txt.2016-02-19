@@ -1,0 +1,55 @@
+﻿ 2016-02-19 00:17:50,624 [P12224/D2/T11] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2016-02-18 00:17:50
+ 2016-02-19 02:16:41,114 [P12224/D2/T103] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username jpurup@hotmail.com from IP address ::1
+ 2016-02-19 02:16:41,114 [P12224/D2/T103] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: jpurup@hotmail.com logged in from IP address ::1
+ 2016-02-19 02:17:04,791 [P12224/D2/T106] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+ 2016-02-19 02:17:04,791 [P12224/D2/T106] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 0 (took 0ms)
+ 2016-02-19 02:36:13,678 [P12224/D2/T75] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: jpurup@hotmail.com, IP Address: ::1
+ 2016-02-19 04:17:50,475 [P12224/D2/T294] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2016-02-18 04:17:50
+ 2016-02-19 16:39:55,092 [P9024/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.3.7 application starting on PURUP
+ 2016-02-19 16:39:55,184 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2016-02-19 16:39:55,193 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 9ms)
+ 2016-02-19 16:39:55,299 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+ 2016-02-19 16:39:55,668 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 0 (took 369ms)
+ 2016-02-19 16:39:55,965 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2016-02-19 16:39:55,965 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+ 2016-02-19 16:39:55,966 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2016-02-19 16:39:55,966 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 0 (took 0ms)
+ 2016-02-19 16:39:55,977 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+ 2016-02-19 16:39:55,978 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 0 (took 0ms)
+ 2016-02-19 16:39:55,978 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+ 2016-02-19 16:39:55,980 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 0 (took 1ms)
+ 2016-02-19 16:39:56,137 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+ 2016-02-19 16:39:56,138 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 0 (took 0ms)
+ 2016-02-19 16:39:56,138 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+ 2016-02-19 16:39:56,138 [P9024/D2/T1] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 0 (took 0ms)
+ 2016-02-19 16:39:56,827 [P9024/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-02-19 16:39:57,069 [P9024/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-02-19 16:39:57,147 [P9024/D2/T1] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2016-02-19 16:39:57,293 [P9024/D2/T1] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2016-02-19 16:39:57,450 [P9024/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2016-02-19 16:39:57,582 [P9024/D2/T1] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2016-02-19 16:39:57,594 [P9024/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 2551ms)
+ 2016-02-19 16:39:59,716 [P9024/D2/T10] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://localhost:60429/umbraco (UmbracoModule request)
+ 2016-02-19 16:39:59,847 [P9024/D2/T10] INFO  umbraco.content - Load Xml from file...
+ 2016-02-19 16:39:59,851 [P9024/D2/T10] INFO  umbraco.content - Loaded Xml from file.
+ 2016-02-19 16:40:00,746 [P9024/D2/T10] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+ 2016-02-19 16:40:00,747 [P9024/D2/T10] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 0 (took 0ms)
+ 2016-02-19 16:40:01,551 [P9024/D2/T10] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2016-02-19 16:40:01,552 [P9024/D2/T10] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 0 (took 0ms)
+ 2016-02-19 16:40:01,771 [P9024/D2/T10] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.cms.businesslogic.macro.IMacroEngine
+ 2016-02-19 16:40:01,772 [P9024/D2/T10] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.cms.businesslogic.macro.IMacroEngine, found 0 (took 0ms)
+ 2016-02-19 16:40:06,350 [P9024/D2/T15] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username jpurup@hotmail.com from IP address ::1
+ 2016-02-19 16:40:06,351 [P9024/D2/T15] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: jpurup@hotmail.com logged in from IP address ::1
+ 2016-02-19 16:40:06,779 [P9024/D2/T15] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-02-19 16:40:06,780 [P9024/D2/T15] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-02-19 16:40:06,850 [P9024/D2/T15] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.IApplication
+ 2016-02-19 16:40:06,850 [P9024/D2/T15] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.IApplication, found 0 (took 0ms)
+ 2016-02-19 16:40:06,914 [P9024/D2/T15] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2016-02-19 16:40:06,915 [P9024/D2/T15] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2016-02-19 16:40:06,916 [P9024/D2/T15] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-02-19 16:40:06,916 [P9024/D2/T15] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 0ms)
+ 2016-02-19 16:40:08,108 [P9024/D2/T16] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ITree
+ 2016-02-19 16:40:08,110 [P9024/D2/T16] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ITree, found 0 (took 1ms)
+ 2016-02-19 16:41:02,076 [P9024/D2/T10] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2016-02-18 16:41:02
+ 2016-02-19 16:59:38,113 [P9024/D2/T104] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: jpurup@hotmail.com, IP Address: ::1
+ 2016-02-19 20:41:02,112 [P9024/D2/T10] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2016-02-18 20:41:02

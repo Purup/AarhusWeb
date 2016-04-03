@@ -1,0 +1,9 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+
+}
+<p><strong>Project Title: </strong>@Umbraco.Field("projectTitle")</p>
+<p><strong>Project Status: </strong>@Umbraco.GetPreValueAsString(Int32.Parse(Umbraco.Field("projectStatus").ToString()))</p>
+<p><strong>Project Description:</strong></p>
+@Umbraco.Field("projectDescription")

@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+
+.active{
+    background-color: orangered !important;
+}
+
+li.active > a{
+    background-color: transparent !important;
+}
+
+footer{
+    background-color: black;
+    color:white;
+}
+
+.cstm-img-crop{
+    width: 20%;
+    height: 20%;
+    float: left;
+}
+
+.align-text-left{
+    text-align: left;
+}
+

@@ -1,0 +1,12 @@
+﻿@import "_bootstrap-variables.scss";
+@import "../../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "_custom.scss";
+
+
+.testing{
+    width: percentage(5/7);
+}
+
+.active {
+    background-color: #4CAF50;
+}
