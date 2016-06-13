@@ -44,7 +44,7 @@ namespace AarhusWebDevCor.Controllers
                 TempData["success"] = true;
             }
 
-
+            //Laver nyt content af typen message, som får data ind fra email submit form
             IContent comment = Services.ContentService.CreateContent(model.Subject, CurrentPage.Id, "Message");
             comment.SetValue("name", model.Name);
             comment.SetValue("email", model.Email);
