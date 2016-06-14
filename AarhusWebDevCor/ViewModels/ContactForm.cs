@@ -18,6 +18,7 @@ namespace AarhusWebDevCor.ViewModels
         [Required]
         public string Message { get; set; }
         //Branch test
+        //Test 2
 
     }
 }
